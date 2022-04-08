@@ -1,0 +1,18 @@
+[
+    {
+        "id":1, "name":"snow", "price":100
+    },
+    {
+        "id":2, "name":"alta", "price":300
+    },
+    {
+        "id":3, "name":"pen", "price":400
+    },
+    {
+        "id":4, "name":"eyelaner", "price":500
+    },
+    {
+        "id":5, "name":"mylener", "price":200
+    }
+        
+    ]
